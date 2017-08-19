@@ -1,0 +1,68 @@
+body{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #e2f8ff;
+}
+header{
+    background-image: url("header.jpg");
+    height: 300px;
+}
+.intro{
+    padding: 20px;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bolder;
+    background-color: #0a3375;
+    color: white;
+}
+.intro a{
+    background-color: white;
+}
+.intro img{
+    width: 500px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+.main-supporting{
+    background-color:#7fa5ff;
+    padding: 20px;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bolder;
+    color: white;
+    
+}
+.main-supporting img{
+   width: 500px;
+   margin-left: 200px;
+   border-radius: 10px; 
+}
+h1, h2, h3{
+    background-color: white;
+    width: 450px;
+    text-align: center;
+    border-radius: 10px;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 25px;
+    color: #0646aa;
+}
+.design-selection, .design-archives, .zen-resources{
+    background-color: #adb6c6;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bolder;
+    color: white;
+    padding: 20px;
+}
+.design-selection img{
+    width: 80px;
+    height: 80px;
+    margin-left: 400px;
+}
+.design-archives img{
+    width: 80px;
+    height: 80px;
+    margin-left: 400px;
+}
+.zen-resources img{
+    width: 80px;
+    height: 80px;
+    margin-left: 400px;
+}
